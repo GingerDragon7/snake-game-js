@@ -1,2 +1,3 @@
 # snake-game-js
-the classic snake game using pure JavaScript. That means we will use no libraries or frameworks at all. We won't even need to use canvas in this tutorial since CSS grid makes working with snake incredibly easy.
+
+The classic snake game using pure JavaScript. It doesn't use any libraries or frameworks at all. It uses CSS grid which makes working with snake incredibly easy.
