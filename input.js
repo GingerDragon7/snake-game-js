@@ -22,6 +22,12 @@ window.addEventListener('keydown', e => {
   }
 })
 
+var myChart = new Chart("myChart", {
+  type: "line",
+  data: {},
+  options: {}
+});
+
 export function getInputDirection() {
   lastInputDirection = inputDirection
   return inputDirection
